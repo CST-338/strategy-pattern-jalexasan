@@ -1,4 +1,6 @@
-public class MeleeAttack implements Attack{
+package Abilities;
+
+public class MeleeAttack implements Attack {
     Monster attacker;
 
     public MeleeAttack(Monster attacker) {

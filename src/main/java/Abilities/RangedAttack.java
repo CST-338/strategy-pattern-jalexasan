@@ -1,4 +1,6 @@
-public class RangedAttack implements Attack{
+package Abilities;
+
+public class RangedAttack implements Attack {
     Monster attacker;
 
     public RangedAttack(Monster attacker) {
